@@ -223,6 +223,11 @@
       "required": true
     },
     {
+      "name": "SecurityCraft-v1.10.jar",
+      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/SecurityCraft-v1.10.jar",
+      "required": true
+    },
+    {
       "name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
       "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/sodium-neoforge-0.6.13+mc1.21.1.jar",
       "required": true
@@ -270,11 +275,6 @@
     {
       "name": "watut-neoforge-1.21.0-1.2.7.jar",
       "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/watut-neoforge-1.21.0-1.2.7.jar",
-      "required": true
-    },
-    {
-      "name": "[1.21.1] SecurityCraft v1.10.jar",
-      "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/[1.21.1] SecurityCraft v1.10.jar",
       "required": true
     }
   ],
