@@ -361,12 +361,13 @@
       "name": "watut-neoforge-1.21.0-1.2.7.jar",
       "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/watut-neoforge-1.21.0-1.2.7.jar",
       "required": true
-    },
+    }
+  ],
+  "optionalMods": [
     {
       "name": "[1.21.1] SecurityCraft v1.10.1.jar",
       "url": "https://github.com/skellofr/hexacity-mods/releases/download/v1.0.0/%5B1.21.1%5D%20SecurityCraft%20v1.10.1.jar",
-      "required": true
+      "required": false
     }
-  ],
-  "optionalMods": []
+  ]
 }
